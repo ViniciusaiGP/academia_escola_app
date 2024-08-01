@@ -1,16 +1,13 @@
 # projeto_escola
+### Status: produção
 
-A new Flutter project.
+## Sobre o projeto
+Estamos empolgados em apresentar a primeira versão do aplicativo de controle de entrada e saída da academia, desenvolvido especialmente para os professores da instituição Uningá. Esta ferramenta foi criada para facilitar e otimizar o gerenciamento do uso da academia, garantindo uma experiência mais organizada e eficiente.
 
-## Getting Started
+Funcionalidades Principais:
 
-This project is a starting point for a Flutter application.
+  -  Registro de Entrada e Saída: Controle automático e manual do horário de entrada e saída dos professores na academia.
+  -  Histórico de Acessos: Acompanhe facilmente o histórico de acessos, permitindo uma visão detalhada dos horários e dias de uso.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Estamos sempre abertos a sugestões e feedbacks para tornar o aplicativo ainda melhor. Aproveite ao máximo sua experiência na academia com a nova ferramenta de controle de entrada e saída!
+**Link para app:** [link](https://play.google.com/store/apps/details?id=com.viniciusaiGP.projeto_escola) (Cadastro feito só pela instituição)
