@@ -10,4 +10,6 @@ Funcionalidades Principais:
   -  Histórico de Acessos: Acompanhe facilmente o histórico de acessos, permitindo uma visão detalhada dos horários e dias de uso.
 
 Estamos sempre abertos a sugestões e feedbacks para tornar o aplicativo ainda melhor. Aproveite ao máximo sua experiência na academia com a nova ferramenta de controle de entrada e saída!
+
+
 **Link para app:** [link](https://play.google.com/store/apps/details?id=com.viniciusaiGP.projeto_escola) (Cadastro feito só pela instituição)
